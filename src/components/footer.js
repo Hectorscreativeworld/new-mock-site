@@ -24,7 +24,9 @@ class Footer extends Component {
               alt=""
             />
           </ul>
-          <p>copy © Hector L Velez. Built with 😃at the SDG.</p>
+          <span>
+            <p>copy © Hector L Velez. Built with 😃at the SDG.</p>
+          </span>
         </footer>
       </>
     )
